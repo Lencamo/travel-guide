@@ -13,6 +13,8 @@
 .app {
   .one {
     color: red;
+    margin-top: 10px;
+    font-size: 18px;
   }
 }
 </style>
