@@ -12,6 +12,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "less": "^4.2.0",
+    "normalize.css": "^8.0.1",
     "vant": "^4.6.8",
     "vue": "^3.2.47"
   },

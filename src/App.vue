@@ -1,7 +1,18 @@
 <template>
-  <van-button type="primary" plain>主要按钮</van-button>
+  <div class="app">
+    <van-button type="primary" plain>主要按钮</van-button>
+    <p class="one">app页面</p>
+  </div>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+//
+</script>
 
-<style scoped></style>
+<style lang="less" scoped>
+.app {
+  .one {
+    color: red;
+  }
+}
+</style>
